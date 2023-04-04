@@ -1,0 +1,29 @@
+self - calling current variable 
+deep copying 
+copy method 
+init self- to overcome deepcopying 
+py dont have any "extends" keyword to inherit we just use class B(A) to inherit class A 
+types of inheritence
+-multi level 
+-multiple
+-single
+-hierarchial 
+super keyword
+polymorphism 
+abstract method can only be in abstract classes
+in python we dont have abstract keyword we have abc library/package( abstract base class)
+in that we have ABC class 
+we cant create any objects in abstract class 
+traversal order:5
+in 
+pre
+post 
+level order
+spiral (left to right , right to left level wise)
+
+-level order tranversal 
+    10
+ 5        15
+2  6    12 17 
+
+using queues we store the ele 
